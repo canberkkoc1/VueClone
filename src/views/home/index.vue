@@ -4,18 +4,21 @@
    <CustomText class="a2" tag="p" size="small">hello</CustomText>
    <CustomText class="a3" tag="p" size="xsmall">hello</CustomText>
    <CustomText class="a4" tag="p" size="xxsmall">hello</CustomText>
+   <IconHome></IconHome>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
 import CustomText from '@/components/CustomText'
-  import '@/style/app.css';
+import '@/style/app.css';
+import IconHome from '@/icons/home1.svg'
 
 export default {
   name: "Home",
   components:{
-     CustomText
+     CustomText,
+     IconHome
   }
  
 };
