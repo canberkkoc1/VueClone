@@ -21,3 +21,24 @@ a {
     color: black;
     text-decoration: none;
 }
+
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+button {
+    cursor: pointer;
+    background: transparent;
+    outline: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b {
+    font-weight: 600;
+}
