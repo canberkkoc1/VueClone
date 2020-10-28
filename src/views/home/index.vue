@@ -1,6 +1,7 @@
 <template>
   <div class="home">  
-   <CustomText class="a1">hello</CustomText>
+    <div class="timeline">
+      <CustomText class="a1">hello</CustomText>
    <CustomText class="a2" tag="p" size="small">hello</CustomText>
    <CustomText class="a3" tag="p" size="xsmall">hello</CustomText>
    <CustomText class="a4" tag="p" size="xxsmall">hello</CustomText>
@@ -189,11 +190,20 @@
       vel inventore nihil qui modi fugiat dolore nam quam libero 
      eius officiis tempora culpa totam.
    </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+   
+    </div>
+    <div class="sidebar">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
      Magni a voluptatibus, tempore laboriosam earum dolor
       vel inventore nihil qui modi fugiat dolore nam quam libero 
      eius officiis tempora culpa totam.
    </p>
+    </div>
+
+
+    
+   
+ 
   </div>
 </template>
 
@@ -201,6 +211,7 @@
 // @ is an alias to /src
 import CustomText from '@/components/CustomText'
 import '@/style/app.css';
+
 
 
 export default {
@@ -214,18 +225,25 @@ export default {
 </script>
 
 <style scoped>
-.a1{
-   color:red;
- }
- .a2{
-   color:rgb(var(--d62))
- }
- .a3{
-   color:rgb(var(--i1d),.6)
- }
- .a4{
-   color:rgb(var(--b86))
- }
+.sidebar{
+  display: none;
+  }
+@media (min-width:900px){
+  .sidebar{
+    display: block;
+  }
+  .home{
+        display: grid;
+    grid-template-columns: 1fr 295px;
+    grid-gap:30px;
+  }
+}
+@media (max-width:750px){
+  .home{
+    max-width: 605px;
+    padding: 0 2rem;
+  }
+}
 </style>
  
 
