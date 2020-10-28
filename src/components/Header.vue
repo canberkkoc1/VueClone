@@ -2,11 +2,13 @@
  
         <header class="header">
             <Container class="header-container">
-
+                <!-- LOGO -->
             <router-link to="/" class="logo">Instagram</router-link> 
+            <!-- SEARCH -->
             <form class="search">
                 <input type="text" name="" id="" placeholder="Search">
             </form >
+            <!--  NAV -->
             <nav class="navigation">
             <router-link to="/">
                 <IconHomeFill v-if="$route.name === 'Home'"></IconHomeFill>
@@ -56,6 +58,12 @@ import Container from '@/components/Container'
 
 .header{
     border-bottom: 1px solid rgb(var(--b6a));
+    position: fixed;
+         left: 0;
+         right: 0;
+         top: 0;
+         z-index: 90;
+         background-color: white;
 }
 .header-container{
     height: 60px;
@@ -79,14 +87,47 @@ import Container from '@/components/Container'
     background-color: rgb(var(--b3f));
     padding: 0 20px;
     outline: none;
-}
-.navigation{
+    }
+
+     .navigation{
+         display: flex;
+         justify-content: flex-end;
+         align-items: center;
+     }
+     .navigation a{
+         margin-left:20px;
+     }
+ @media (max-width:700px) {
+     .header{
+         position: fixed;
+         background-color: white;
+         left: 0;
+         right: 0;
+         top: 0;
+         z-index: 90;
+         border-bottom: 1px solid rgb(var(--b6a));
+     }
+     .navigation{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
     display: flex;
-    justify-content: flex-end;
-    align-items: center;
+    height: 5rem;
+    justify-content: space-around;
+    border-top: 1px solid rgb(var(--b6a));
 }
-.navigation a{
-    margin-left:20px;
+.search{
+    display: none;
 }
+.header-container{
+    height: 60px;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+}
+ }
 
 </style>
