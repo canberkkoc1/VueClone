@@ -1,196 +1,7 @@
 <template>
   <div class="home">  
     <div class="timeline">
-      <CustomText class="a1">hello</CustomText>
-   <CustomText class="a2" tag="p" size="small">hello</CustomText>
-   <CustomText class="a3" tag="p" size="xsmall">hello</CustomText>
-   <CustomText class="a4" tag="p" size="xxsmall">hello</CustomText>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-     Magni a voluptatibus, tempore laboriosam earum dolor
-      vel inventore nihil qui modi fugiat dolore nam quam libero 
-     eius officiis tempora culpa totam.
-   </p>
-   
+      <Avatar :size="40"> </Avatar>
     </div>
     <div class="sidebar">
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -209,15 +20,17 @@
 
 <script>
 // @ is an alias to /src
-import CustomText from '@/components/CustomText'
+// import CustomText from '@/components/CustomText'
 import '@/style/app.css';
+import Avatar from '@/components/ProfilePhoto'
 
 
 
 export default {
   name: "Home",
   components:{
-     CustomText,
+    //  CustomText,
+    Avatar,
      
   }
  
