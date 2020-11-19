@@ -165,4 +165,5 @@ import IconSave from '@/icons/save.svg'
 .comment-input input{
     padding: 10px 0 0 10px;
 }
+
 </style>

@@ -1,7 +1,7 @@
 <template>
 <div class="stry">
 
-     <div class="story">
+     <div class="story" v-for="index in 10" :key="index">
         <div class="avatar-stry">
           <Avatar size="40"></Avatar>
 
@@ -11,76 +11,7 @@
                 </div>
        
       </div>
-     <div class="story">
-        <div class="avatar-stry">
-          <Avatar size="40"></Avatar>
-
-        </div>
-                <div class="who">
-                    <CustomText size="xxsmall">Canberkkoc</CustomText>
-                </div>
-       
-      </div>
-     <div class="story">
-        <div class="avatar-stry">
-          <Avatar size="40"></Avatar>
-
-        </div>
-                <div class="who">
-                    <CustomText size="xxsmall">Canberkkoc</CustomText>
-                </div>
-       
-      </div>
-     <div class="story">
-        <div class="avatar-stry">
-          <Avatar size="40"></Avatar>
-
-        </div>
-                <div class="who">
-                    <CustomText size="xxsmall">Canberkkoc</CustomText>
-                </div>
-       
-      </div>
-     <div class="story">
-        <div class="avatar-stry">
-          <Avatar size="40"></Avatar>
-
-        </div>
-                <div class="who">
-                    <CustomText size="xxsmall">Canberkkoc</CustomText>
-                </div>
-       
-      </div>
-     <div class="story">
-        <div class="avatar-stry">
-          <Avatar size="40"></Avatar>
-
-        </div>
-                <div class="who">
-                    <CustomText size="xxsmall">Canberkkoc</CustomText>
-                </div>
-       
-      </div>
-     <div class="story">
-        <div class="avatar-stry">
-          <Avatar size="40"></Avatar>
-
-        </div>
-                <div class="who">
-                    <CustomText size="xxsmall">Canberkkoc</CustomText>
-                </div>
-       
-      </div>
-     <div class="story">
-        <div class="avatar-stry">
-          <Avatar size="40"></Avatar>
-
-        </div>
-                <div class="who">
-                    <CustomText size="xxsmall">Canberkkoc</CustomText>
-                </div>
-       
-      </div>
+     
      
 </div>
   
